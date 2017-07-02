@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\RandyRyanEvan\\Documents\\GitHub\\lotto-Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta2.aar\\0313a9282607aa911b825840fd5aa211\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
         "map": [
             {

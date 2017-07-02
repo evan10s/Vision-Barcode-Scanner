@@ -64,8 +64,8 @@
         android:text="@string/auto_capture"
         android:id="@+id/use_auto"
         android:checked="false"
-        android:layout_marginTop="30dp"
-        android:layout_below="@+id/auto_focus"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 

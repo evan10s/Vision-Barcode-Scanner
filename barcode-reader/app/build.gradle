@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
-
+    compileSdkVersion 26
+    buildToolsVersion '26.0.0'
     defaultConfig {
-        applicationId "com.google.android.gms.samples.vision.barcodereader"
-        minSdkVersion 9
-        targetSdkVersion 23
+        applicationId 'com.strat.evan.lotto.barcodescanner'
+        minSdkVersion 14
+        targetSdkVersion 26
         versionCode 1
         versionName "1.0"
+        versionNameSuffix '-beta'
     }
     buildTypes {
         release {
@@ -17,12 +17,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:support-v4:23.0.1'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:26.0.0-beta1'
     // Important - the CameraSource implementation in this project requires version 8.1 or higher.
-    compile 'com.android.support:design:23.0.1'
-    compile 'com.google.android.gms:play-services:9.0.0'
+    compile 'com.android.support:design:26.0.0-beta2'
+    compile 'com.google.android.gms:play-services-vision:11.0.2'
+    compile files('libs/okhttp-3.8.1.jar')
+    compile files('libs/okio-1.13.0.jar')
 }

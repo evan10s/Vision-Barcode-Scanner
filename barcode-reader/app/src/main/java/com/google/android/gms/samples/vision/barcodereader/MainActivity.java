@@ -18,20 +18,22 @@ package com.google.android.gms.samples.vision.barcodereader;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.app.Activity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.CompoundButton;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
+import com.google.android.gms.samples.vision.barcodereader.ui.camera.WebSocketEcho;
 import com.google.android.gms.vision.barcode.Barcode;
 
 /**
  * Main activity demonstrating how to pass extra parameters to an activity that
  * reads barcodes.
  */
-public class MainActivity extends Activity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     // use a compound button so either checkbox or switch widgets work.
     private CompoundButton autoFocus;
@@ -42,6 +44,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     private static final int RC_BARCODE_CAPTURE = 9001;
     private static final String TAG = "BarcodeMain";
+    private WebSocketEcho wse;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,6 +59,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
         autoCapture = (CompoundButton) findViewById(R.id.use_auto);
 
         findViewById(R.id.read_barcode).setOnClickListener(this);
+        wse = new WebSocketEcho();
+
+
     }
 
     /**
@@ -66,14 +72,27 @@ public class MainActivity extends Activity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         if (v.getId() == R.id.read_barcode) {
+
+            EditText ipField = findViewById(R.id.server_address);
+            EditText kioskIdField = findViewById(R.id.kiosk_id);
+
+            String ip = ipField.getText().toString();
+            int kioskId = Integer.parseInt(kioskIdField.getText().toString());
+
+            wse.run(ip,kioskId);
+
             // launch barcode activity.
-            Intent intent = new Intent(this, BarcodeCaptureActivity.class);
-            intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
-            intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
-            intent.putExtra(BarcodeCaptureActivity.AutoCapture, autoCapture.isChecked());
-            startActivityForResult(intent, RC_BARCODE_CAPTURE);
+            startBarcodeActivity();
         }
 
+    }
+
+    private void startBarcodeActivity() {
+        Intent intent = new Intent(this, BarcodeCaptureActivity.class);
+        intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
+        intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
+        intent.putExtra(BarcodeCaptureActivity.AutoCapture, autoCapture.isChecked());
+        startActivityForResult(intent, RC_BARCODE_CAPTURE);
     }
 
     /**
@@ -107,6 +126,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
                     statusMessage.setText(R.string.barcode_success);
                     barcodeValue.setText(barcode.displayValue);
                     Log.d(TAG, "Barcode read: " + barcode.displayValue);
+
+                    //Pass the barcode value read to the server
+                    wse.sendBarcode(barcode.displayValue);
+
                 } else {
                     statusMessage.setText(R.string.barcode_failure);
                     Log.d(TAG, "No barcode captured, intent data is null");
@@ -115,6 +138,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 statusMessage.setText(String.format(getString(R.string.barcode_error),
                         CommonStatusCodes.getStatusCodeString(resultCode)));
             }
+
+            //Restart the barcode scanner
+            startBarcodeActivity();
+
         }
         else {
             super.onActivityResult(requestCode, resultCode, data);

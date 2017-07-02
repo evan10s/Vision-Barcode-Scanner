@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\RandyRyanEvan\\Documents\\GitHub\\lotto-Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\activity_main.xml",
+        "source": "C:\\Users\\RandyRyanEvan\\Documents\\GitHub\\lotto-Vision-Barcode-Scanner\\barcode-reader\\app\\src\\main\\res\\layout-v17\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\activity_main.xml",
         "source": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\src\\main\\res\\layout-v17\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
         "source": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RandyRyanEvan\\Documents\\GitHub\\lotto-Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\4710e810279d3dbde01cdd562cabfed58f74b526\\output\\res\\layout-v17\\mr_media_route_list_item.xml"
     }
 ]

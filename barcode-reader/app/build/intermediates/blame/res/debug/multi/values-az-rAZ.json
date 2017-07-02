@@ -1,5 +1,390 @@
 [
     {
+        "outputFile": "C:\\Users\\RandyRyanEvan\\Documents\\GitHub\\lotto-Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 105,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 105,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 106,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 106,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 116,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 116,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 97,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 97,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 89,
+                    "endOffset": 670
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 89,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 675,
+                    "endColumn": 98,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 98,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 103,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 103,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 97,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 97,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 101,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 101,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 99,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 99,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 98,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 98,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 112,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 112,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 114,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 114,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 86,
+                    "endOffset": 1587
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1505,
+                        "endColumn": 86,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1592,
+                    "endColumn": 83,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 83,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 94,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 94,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 105,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 105,
+                        "endOffset": 1872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endColumn": 85,
+                    "endOffset": 1958
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1877,
+                        "endColumn": 85,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1963,
+                    "endColumn": 94,
+                    "endOffset": 2053
+                },
+                "from": {
+                    "file": "C:\\Users\\RandyRyanEvan\\.android\\build-cache\\1451d72ee628df7de95a1165a3f41e2eaef07230\\output\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1963,
+                        "endColumn": 94,
+                        "endOffset": 2053
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ\\values-az-rAZ.xml",
         "map": [
             {

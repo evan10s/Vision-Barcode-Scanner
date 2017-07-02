@@ -2,354 +2,184 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_a114d19c0b9520a81d4968afcc84d8b3fabffcf2.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\71f21ab4473ea796955a1e10836ddb35c01f8e6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b6254806b82e8c7c000963d9ea1a611950cc78">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_616cc683998a993e7b7ce40c255cded2bfcd4bd7\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_3b0a5fcabbeb9545a9498cc9ffed42022b8c7bdd.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\d060de58dacf67805c80160a83397c5aeba4fba5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6501740d89c87175a173a56b52ca31e756ccf4e2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_46e1be64eace31a3d6f86583d26b0a0218ff52e0.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\767995178d1f5a79f041d3ee75b22d68c456f167\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30305be7e5eacf82de3a96c92082eaab5e22fef2">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c79fdd8f0093a6f827b0f5892f5d58479a2f9796\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_c7fcc65a65449549388553ca4e4bf6465a0442a8.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\1c1769ac84ba3ffc325fd52eefb416994fcaa7a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e300bd648b3784971b984858f0dde1cc66951964">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cafbc5c11c87e303c33eb4a6bde9962ff9eb7d8b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_20ee8581755117ae8d6ac2ef980c5ded0e728ac1.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\a3485b73792c046a07bf9b7d775caec50e63402d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d8315789fd7530784fbbc72bb3ac1a016fa703c">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60087a03ada80b9c55c314118edaea211f7ef68b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_a5ca9b207561568ea12ea05704c67b154f716731.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\215bece561348e443e5c2a24fa2bb5f2aa39c6be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7511cc67eb9378e79cea62d5130ca078d0a2a1d\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_f075fd03ae3129602a9eb479b4cf8af756735905.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0-beta2\e5ef6e4822404221c9b03dff0d31e4810ac3fb0d\support-annotations-26.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5ef6e4822404221c9b03dff0d31e4810ac3fb0d">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-beta2_6805aadc2bf5f4644b05cea4d232bdb9a5e5b53d\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_439237bdc57023a89baebb9cc2b4023967e88921.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\2cbf1102b0b170a45c7ab193b170b938a88b1f40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0a9dbd76f7de3683d8e80fda10f2389e391958f">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60f28037162391409dc1a32aac1f14003c5cee01\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_9e28d2bb0f6266e43fc33f0ae82680b2dc59044c.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\e2f00b67282ea9e5fa117b8d1e3132d50d1d6c08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eeb2226439fc09924584ada5b2f61a2ecdfe15a6">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86c19a541c20ba561e3ec8f3e3833d0f428072d0\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_afc8d72e3e8e5e0ddb083c59e06ebdc255e9b9d9.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\a4c03287c6cba3ed6e01f8a1f0d647fc1c32267a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8ea24030e2614317ae776b1efeccb00634b6e44\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_99e684a4bd0cb5af3140374b7d54792461509f59.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32639a00dbac4340b8052933dc3adfbe7d60ec34\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_201baad473aedc437b783087a0312ed68385a25d.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\2417ee8b1b29af1855a0b4e1f7a4841b1e27a12c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="425afda77858230389ade1965e87c8d4a2b730a2">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dac3387fb9fa234ca810783cbca02e71d1387a25\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_5db7ea4dce53dea0af716811339be2151e79f3ed.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\4e17a4af49ed414c58b2ebddd40d039a62370e79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19d8973e16774206d0acd08119447711b6c3a62b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_3e38ccaefd4e21148cf914037f79c8e25397201a.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\8469ddb8eb584e06c94b447035624464bbeb09c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4e989c9e1ff3ab892b8b82dd574d3da763eb3ac5">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d99857f0c70e9f3772c851e89ed266bab9a6c59\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_05f01ae5260dafc6b6318b3272baf0e1796e214b.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\7c590b70427da5c500ac108ac4dde508a2944eb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75d910158623fb49bbca7268bd7abd24a2c13189\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_a0047a3947f24c27faa0d9b8ae5b17828b170174.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\7998f5563c635da321a2d482be31bee4ca6b3880\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="113afb69fdd5c66bf9aaa1bf425105a3fbbfa10c">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dd81ccd61defb3237d27c973c8c3587800c0f9e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_5b5ab3a81d12b2fb73ed9eecafaad345b414932d.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\dd4ba24af89dde8aee650e3b543b2198956b9a3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76245722a4ca45146f008723a62de4fc462505c1">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18eb2868d2bd10c0b787e1d971e911f228f45943\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_9d5543f5086eda1c2182aaca4bce9435b72899ad.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e8f10b4988c1a673bc0ec4f6ac45851e7698107">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9a1cce224c6f3380a1bd65076ad3ced6916f8099\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_bb8e911f792283c8ce7ab4c577e22c3c102de43c.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\b04eaeeba1aa560365260385593c4d3906bd20ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ac61f84ac181542b7b013e0566dfb4cb24f37aa\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_a372a37608fcc547ea7691ab844eb8ce06e10cb6.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_c788e53c8a8252e48bdc9a9ed11f14affae12a1d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_c64e5f907556e6cb10735a3eacb04fe2845a5915.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_6b4d1a057b75ed5fdf27c23bad3589f4b18eb36b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_7f8d1fa0a593b136e1f8c2a1d91e8049850e5103.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_a454853fe62b00cc9376be2ced5e807ab79554ce.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_3850416ffd7cf75eaae68973b26ff55d129e298e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_ae9bfd237d6b99ab6070fe3fc773c1b5de938bb1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_7b8772f3ec3ceae7671e8981eb981f0e3aadbdc8.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_eeca451e21d17cd544376fb72fe9bed947b71cb1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_183340949f671a04d235e987cb89bafc2bcecca8.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_90cf2652b63e92ac55876739b1bb21ea0a91a005.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_e535d58d0bdbcf6cd5f16b856c5ff350d3df25e2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_86d0873f71414c090a18a239b5b7975683890a48.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_042a6c9f8dc84d9f807864ce9d2263f80deb5f26.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_04c5d02eff512e16d20aab9ef97a9d9f49e65247.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_fe6ad6d6d41b1d919a0dee6bfe500eb743eb4fff.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_ea52c29c0a2ccd72272f6b987cf5f5526f02a24b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_4c099720963871330922e35778288eeb3d02d4ba.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_9bc4838bb6c0980becc773cfac8debfb66999867.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="69472e334350cafbf442776da05c9a04955252fb">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_925f2af85da1bb75f84916723801552a37680350.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_69f9f1905f030eb307a263df0b9f39ca38a67223.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_44ff257e3d3e9051ee4f07dcabba119abd39db0a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_aca43efc89ad5af579a7995c38537b3a154925d2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_1b73376831b5891279255e4e8b11c949bd871f01.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_92b7e172327d818ea253ea02a75e2144ef63a489.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c0642a8748ea2ad41386cc5303f8c19e19c685fc.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_36e18cdcdc3a0c5d43581bb03d31d0250e30b0b2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_8f4adeb96cce93a92278ac2e573376e7ad39db44.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_3349de2d896a94afb04a6fef4cfacc748fc79780.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_9ced1948ee40272d846fe96a41b724bd109e9e6d.jar" />
+        is-multidex="true"
+        jar="C:\Users\RandyRyanEvan\.android\build-cache\4790510b60a6943004c9db43ecf639ad846e1750\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3e4d3f759d70d1b96896bb5904a62bf0785da77\classes.dex" />
     </item>
 
 </items>
