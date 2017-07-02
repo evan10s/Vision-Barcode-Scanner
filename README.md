@@ -1,3 +1,8 @@
+This Android app integrates with my other Lottery v2 web app.
+
+The app will automatically scan barcodes, then send them to a linked kiosk within Lottery v2.  This makes it easy to run the lottery as a kiosk, with users simply scanning their barcode ticket to identify themselves.
+
+This repo is largely based on:
 # Vision API: Barcode Scanner
 New repo for modified project
 
