@@ -1,4 +1,4 @@
-package com.google.android.gms.samples.vision.barcodereader.ui.camera;
+package com.google.android.gms.samples.vision.barcodereader;
 
 import android.net.Uri;
 import android.util.Log;
@@ -63,6 +63,26 @@ public final class WebSocketEcho extends WebSocketListener {
     @Override
     public void onMessage(WebSocket webSocket, String text) {
         Log.d(TAG, "MESSAGE: " + text);
+        // The only point of this is to check for the "searchForScanner" message type
+        // That's why there's no msgData here
+        String msgType = "";
+        try {
+            JSONObject messageObj = new JSONObject(text);
+            msgType = messageObj.getString("msgType");
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
+        if (msgType.equals("searchForScanner")) {
+            try {
+                webSocket.send(new JSONObject()
+                        .put("msgType","searchAcknowledge")
+                        .put("message","Scanner is connected")
+                        .toString());
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
     @Override

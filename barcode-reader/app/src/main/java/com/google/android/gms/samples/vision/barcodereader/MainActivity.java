@@ -26,7 +26,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
-import com.google.android.gms.samples.vision.barcodereader.ui.camera.WebSocketEcho;
 import com.google.android.gms.vision.barcode.Barcode;
 
 /**
