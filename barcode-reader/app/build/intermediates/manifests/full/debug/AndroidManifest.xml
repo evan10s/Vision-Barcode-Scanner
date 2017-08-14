@@ -22,7 +22,6 @@
         android:icon="@drawable/icon"
         android:label="Lotto Scan"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat" >
         <meta-data
             android:name="com.google.android.gms.version"
