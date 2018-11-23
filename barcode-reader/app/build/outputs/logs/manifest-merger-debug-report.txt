@@ -1,222 +1,269 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\03452d469e00d15255683babfb9ad72e\AndroidManifest.xml:2:1-5:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\512cdd3352fdbb6b626efbad5610c965\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\951f54ba7a2dd873c625434071ccbba2\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\040102d16f7527892ed45de27098fe7d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e44c9a33835f30efac999181733a417\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\4f2958ef189d43bb0d323d1478d93dbd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1dcffe8b6c091057e77541da334bd33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd4f85d87124229a918075373c43ec81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8c209319bf4531327e5a0dd644245020\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\42005356e6ff5c22f6e0f4c065314165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\4b652c0bdd26cea074b172eff35fada6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\213700b037e4bca069c28815bf38f669\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\708ad74d9f3c052532912600e371883d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e1777bbca004687a2c50fa9052fc9537\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bb894188b5b64dcad7c3a23b78cf1b45\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c00fc6bdb49e16210f7776d092d359a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3bac4e2294ce20557d50bd04fb72adbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\38212e9397be6509025d7cbdc12c5fec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f96441a73ca778fb0f52cd3e6608d6d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f7d105444fd6083151eac1267fdc9aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1384aa2bf0f783219a706be3d3d12fd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf2d8b9d06484587b092250e16a48e3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\93009dbcbba54a3a6d6bd185fd37bde6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c65e9f3a0da8885adddca7440e41031\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\853d12d24b2e2347e8a3d3eb63e386f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3421b976bb315d8196d171d36118a057\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b99811fc01f7451d94b238e81212b9ee\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c94b0096e3fd96ba027d5d96f11568be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4248a4d6bf8c6474c85465801e19c0c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9512ea427a145f5a3ef1644c851c4de8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ad0e4afd49134073eb6a9e3ef1ebdad0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8748a60f8245ca4774822a99a96936a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14bd6f053371cb7fa0e95599ff75c2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a4d68ce281c46db0c115f6a570deca95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1c030d4e2c5faa399994fe2f26463d98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01a96553959200cabf40c5037c952737\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c92f3613a73a4a05cc5e2fd3f07a758e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b9858beee1ab2999e84d3dfcda221ea2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:3:5-66
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:3:5-66
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:6:5-60
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:6:5-60
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:6:19-57
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:6:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:8:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:11:5-38:19
-MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\03452d469e00d15255683babfb9ad72e\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\03452d469e00d15255683babfb9ad72e\AndroidManifest.xml:4:5-19
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\512cdd3352fdbb6b626efbad5610c965\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\512cdd3352fdbb6b626efbad5610c965\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\951f54ba7a2dd873c625434071ccbba2\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\951f54ba7a2dd873c625434071ccbba2\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:25:5-29:19
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:11:5-40:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\040102d16f7527892ed45de27098fe7d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\040102d16f7527892ed45de27098fe7d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\4f2958ef189d43bb0d323d1478d93dbd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\4f2958ef189d43bb0d323d1478d93dbd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\4b652c0bdd26cea074b172eff35fada6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\4b652c0bdd26cea074b172eff35fada6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\213700b037e4bca069c28815bf38f669\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\213700b037e4bca069c28815bf38f669\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e1777bbca004687a2c50fa9052fc9537\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e1777bbca004687a2c50fa9052fc9537\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bb894188b5b64dcad7c3a23b78cf1b45\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bb894188b5b64dcad7c3a23b78cf1b45\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b99811fc01f7451d94b238e81212b9ee\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b99811fc01f7451d94b238e81212b9ee\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:17:9-37
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:17:9-37
 	android:label
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:16:9-35
 	android:hardwareAccelerated
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:14:9-43
 	android:fullBackupContent
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:13:9-42
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:13:9-42
 	android:icon
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:15:9-38
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:15:9-38
 	android:allowBackup
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:18:9-47
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:18:9-47
+	android:networkSecurityConfig
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:19:9-69
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:19:9-21:69
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:20:9-121
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:20:9-121
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:21:13-66
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:20:13-58
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:22:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:22:9-24:39
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:24:9-26:39
 	android:value
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:23:13-70
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:25:13-70
 activity#com.google.android.gms.samples.vision.barcodereader.MainActivity
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:label
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:28:13-56
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:27:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:29:13-33:29
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:34:27-74
 activity#com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity
-ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:36:9-37:43
+ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:38:9-39:43
 	android:label
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:37:13-41
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:39:13-41
 	android:name
-		ADDED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml:36:19-57
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml:38:19-57
 uses-sdk
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\03452d469e00d15255683babfb9ad72e\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\03452d469e00d15255683babfb9ad72e\AndroidManifest.xml:3:5-43
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\512cdd3352fdbb6b626efbad5610c965\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\512cdd3352fdbb6b626efbad5610c965\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\951f54ba7a2dd873c625434071ccbba2\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\951f54ba7a2dd873c625434071ccbba2\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\1f55fa7279ade8835e6b3465332be537\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\040102d16f7527892ed45de27098fe7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\040102d16f7527892ed45de27098fe7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e44c9a33835f30efac999181733a417\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5e44c9a33835f30efac999181733a417\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\4f2958ef189d43bb0d323d1478d93dbd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\4f2958ef189d43bb0d323d1478d93dbd\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1dcffe8b6c091057e77541da334bd33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1dcffe8b6c091057e77541da334bd33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd4f85d87124229a918075373c43ec81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd4f85d87124229a918075373c43ec81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8c209319bf4531327e5a0dd644245020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8c209319bf4531327e5a0dd644245020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\42005356e6ff5c22f6e0f4c065314165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\42005356e6ff5c22f6e0f4c065314165\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\4b652c0bdd26cea074b172eff35fada6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\4b652c0bdd26cea074b172eff35fada6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\213700b037e4bca069c28815bf38f669\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\213700b037e4bca069c28815bf38f669\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\708ad74d9f3c052532912600e371883d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\708ad74d9f3c052532912600e371883d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e1777bbca004687a2c50fa9052fc9537\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e1777bbca004687a2c50fa9052fc9537\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bb894188b5b64dcad7c3a23b78cf1b45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bb894188b5b64dcad7c3a23b78cf1b45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\dd126684e5c4bbbeef6ffe4ae5c55cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c00fc6bdb49e16210f7776d092d359a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c00fc6bdb49e16210f7776d092d359a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3bac4e2294ce20557d50bd04fb72adbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3bac4e2294ce20557d50bd04fb72adbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\38212e9397be6509025d7cbdc12c5fec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\38212e9397be6509025d7cbdc12c5fec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f96441a73ca778fb0f52cd3e6608d6d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f96441a73ca778fb0f52cd3e6608d6d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f7d105444fd6083151eac1267fdc9aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f7d105444fd6083151eac1267fdc9aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1384aa2bf0f783219a706be3d3d12fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1384aa2bf0f783219a706be3d3d12fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf2d8b9d06484587b092250e16a48e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf2d8b9d06484587b092250e16a48e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\93009dbcbba54a3a6d6bd185fd37bde6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\93009dbcbba54a3a6d6bd185fd37bde6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c65e9f3a0da8885adddca7440e41031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c65e9f3a0da8885adddca7440e41031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\853d12d24b2e2347e8a3d3eb63e386f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\853d12d24b2e2347e8a3d3eb63e386f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3421b976bb315d8196d171d36118a057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3421b976bb315d8196d171d36118a057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63e5bc0b691c6bf99a4f071e40244378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b99811fc01f7451d94b238e81212b9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b99811fc01f7451d94b238e81212b9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c94b0096e3fd96ba027d5d96f11568be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c94b0096e3fd96ba027d5d96f11568be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4248a4d6bf8c6474c85465801e19c0c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4248a4d6bf8c6474c85465801e19c0c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9512ea427a145f5a3ef1644c851c4de8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9512ea427a145f5a3ef1644c851c4de8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ad0e4afd49134073eb6a9e3ef1ebdad0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ad0e4afd49134073eb6a9e3ef1ebdad0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8748a60f8245ca4774822a99a96936a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8748a60f8245ca4774822a99a96936a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14bd6f053371cb7fa0e95599ff75c2ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\14bd6f053371cb7fa0e95599ff75c2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a4d68ce281c46db0c115f6a570deca95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a4d68ce281c46db0c115f6a570deca95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1c030d4e2c5faa399994fe2f26463d98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1c030d4e2c5faa399994fe2f26463d98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01a96553959200cabf40c5037c952737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\01a96553959200cabf40c5037c952737\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c92f3613a73a4a05cc5e2fd3f07a758e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c92f3613a73a4a05cc5e2fd3f07a758e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b9858beee1ab2999e84d3dfcda221ea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b9858beee1ab2999e84d3dfcda221ea2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\RandyRyanEvan\Documents\GitHub\lotto-Vision-Barcode-Scanner\barcode-reader\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\acccb492f38fac56f5fdee185beb92bf\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\5c2676c338514cbf533ca0146f2652d9\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\365a5a3b69be5f1a276363554d022615\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\d8392b4c0af66c9acfd5ec6768bc1207\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\49097eb9be827c6185497c0953df1c8d\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\7ce0bbd8bacbb9a2e41f9bf26a338633\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\0825a9f36ea9ba9c27a2ac61a98de0a7\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\2f58d928cdab87aa75cba254ca3e1ef1\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\2de46b12bc8e07aa15fa52b2d7624ba0\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\9b113626bb4464c771277a516db16b61\AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\cc81b1bbc983d4d1b4d204adb2ba84a1\AndroidManifest.xml:26:9-28:44
-	android:value
-		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:28:13-41
-	android:name
-		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\9dcbbbcaf8004bd2a4b87a899cbef04f\AndroidManifest.xml:27:13-51
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Evan\Documents\GitHub\lottery-v2-barcode-scanner\barcode-reader\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\RandyRyanEvan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\9f59de1889be59cf98da270ab9554ca2\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\20b58697d75861fb2a33850a327a6c0c\AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b079e7107e8a66f2489187364c8302b2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Evan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5f8b4038e394b14a41f4e4d5978a5ab1\AndroidManifest.xml:27:13-51

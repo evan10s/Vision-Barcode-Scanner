@@ -15,7 +15,9 @@
         android:icon="@drawable/icon"
         android:label="Lotto Scan"
         android:supportsRtl = "true"
-        android:theme="@style/Theme.AppCompat" >
+        android:theme="@style/Theme.AppCompat"
+        android:networkSecurityConfig="@xml/network_security_config"
+        >
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
